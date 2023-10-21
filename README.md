@@ -15,7 +15,7 @@
 4. Under UI Set the Theme property to Base16Tomorrow.toml
 ![Settings](Settings%20Properties.png)
 5. Hit *apply*
-6. Aquire tissues to wipe the tears of joy for you are now whitnessing pure **beauty**.
+6. Aquire tissues to wipe the tears of joy for you are now witnessing pure **beauty**.
 
 
 
