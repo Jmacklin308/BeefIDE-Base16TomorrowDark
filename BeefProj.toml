@@ -1,0 +1,6 @@
+FileVersion = 1
+Dependencies = {corlib = "*", SDL2 = "*", Utilities = "*"}
+
+[Project]
+Name = "GameOne"
+StartupObject = "GameOne.Program"
